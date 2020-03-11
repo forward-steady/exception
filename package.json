@@ -1,7 +1,7 @@
 {
   "name": "@forward-steady/exception",
-  "version": "1.0.0",
-  "description": "An exception base class for Javascript/Typescript that includes a code, context, and other features one finds one often needs",
+  "version": "1.0.1",
+  "description": "An Exception base class for Javascript/Typescript that extends the built-in Error class with code and context properties.",
   "main": "lib/cjs/index.js",
   "module": "lib/es6/index.js",
   "scripts": {
